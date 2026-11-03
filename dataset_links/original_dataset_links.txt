@@ -1,0 +1,26 @@
+Flickr2W (natural)
+https://drive.google.com/file/d/1EK04NO6o3zbcFv5G-vtPDEkPB1dWblEF/view
+
+CLIC (natural)
+https://archive.compression.cc/challenge/
+
+Kodak (natural)
+https://www.kaggle.com/datasets/sherylmehta/kodak-dataset
+
+KITTI (driving)
+https://www.kaggle.com/datasets/klemenko/kitti-dataset
+
+Document 
+Downloaded from NeurIPS2024
+
+VimeoTriplet (Residue, Y1Y2Y3)
+https://www.kaggle.com/datasets/chenshu123/vimeo-triplet
+
+Manga109 (Line drawing)
+https://www.kaggle.com/datasets/guansuo/manga109
+
+BMS natural+document test dataset
+https://arxiv.org/abs/2404.18399
+https://arxiv.org/abs/2407.14170
+
+generated, labelled with BMS_dataset codes
