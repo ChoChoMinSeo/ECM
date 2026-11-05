@@ -6,7 +6,7 @@
 
 **Official implementation · IEEE Access**
 
-This repository contains the official implementation of **“Beyond One-Size-Fits-All: Learned Image Compression with Explicit Coding Modes”**, including training and testing scripts for IMS and BMS.
+This repository contains the official implementation of **“Beyond One-Size-Fits-All: Learned Image Compression with Explicit Coding Modes”**
 
 [Training](#training) · [Testing](#testing) · [Datasets](#datasets) · [Pretrained Checkpoints](#pretrained-checkpoints)
 
@@ -77,14 +77,12 @@ Pretrained checkpoint download links will be added here.
 
 | λ | IMS checkpoint | BMS checkpoint |
 | :--- | :--- | :--- |
-| 0.0483 | Coming soon | Coming soon |
-| 0.0250 | Coming soon | Coming soon |
-| 0.0130 | Coming soon | Coming soon |
-| 0.0067 | Coming soon | Coming soon |
-| 0.0035 | Coming soon | Coming soon |
-| 0.0018 | Coming soon | Coming soon |
-
-<!-- Replace "Coming soon" with checkpoint download links when available. -->
+| 0.0483 | [qs5.pth.tar](https://drive.google.com/file/d/1fh5oO0Ht8dnSH0C48RxJKwIs9TgK3aYt/view?usp=drive_link) | [qs5.pth.tar](https://drive.google.com/file/d/1j_-26_lz0kjQUHeFesq0XASkxfyxmXqW/view?usp=drive_link) |
+| 0.0250 | [qs4.pth.tar](https://drive.google.com/file/d/1ttz2zJP9dFCgqFHZCKPZcEE3YyKyavY_/view?usp=drive_link) | [qs4.pth.tar](https://drive.google.com/file/d/1w1yPDotk72Q23ljptJ2x3TAKv6dnaCSq/view?usp=drive_link) |
+| 0.0130 | [qs3.pth.tar](https://drive.google.com/file/d/1KK9krmRpxkiYnXxjFJ8-4JuAt6ROqyKV/view?usp=drive_link) | [qs3.pth.tar](https://drive.google.com/file/d/10TWZhCp_FI3wo_DX2kSWFCQbjeC9g4Iq/view?usp=drive_link) |
+| 0.0067 | [qs2.pth.tar](https://drive.google.com/file/d/1MeykqkJs5RWzYdUaE1PMP9DqxQSpz4lP/view?usp=drive_link) | [qs2.pth.tar](https://drive.google.com/file/d/1o7WU7b1zDgXC7oWIyUVfIAlDC-zqkdtS/view?usp=drive_link) |
+| 0.0035 | [qs1.pth.tar](https://drive.google.com/file/d/1QG4OeJIioHuxPYYpMk-gURYPBNgjiMRA/view?usp=drive_link) | [qs1.pth.tar](https://drive.google.com/file/d/1JDVAITmLG8apT6HP4dyYHysmpFS1JL0S/view?usp=drive_link) |
+| 0.0018 | [qs0.pth.tar](https://drive.google.com/file/d/1Q8irSvJb12IRX9c2jVycvvpkznUZASh9/view?usp=drive_link) | [qs0.pth.tar](https://drive.google.com/file/d/14s6hxGcCHLk8SHUtnEfUNxI9iU6TG98c/view?usp=drive_link) |
 
 ## Acknowledgments
 
